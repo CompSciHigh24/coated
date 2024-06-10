@@ -1,0 +1,67 @@
+.center {
+  text-align:center;
+}
+
+body{
+  background-color:purple
+}
+img{
+  vertical-align:middle;
+  object-fit:contain
+}
+.image{
+  display: grid;
+  place-items: center;
+  height: 40vh; 
+  object-fit:contain
+}
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  object-fit:contain
+}
+.text{
+  color:black;
+  object-fit:contain
+}
+.homestyle{
+  font-family:"poetsen One", sans-serif;
+  color:black;
+  object-fit:contain
+}
+.card {
+  width: 100%;
+  max-width: 800px; 
+  margin: 0 auto; 
+   margin-bottom: 20px;
+  object-fit:contain
+}
+.card-img-overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  object-fit:contain
+}
+.homestyle {
+  font-size: 2rem; 
+  color: #fff; 
+  object-fit:contain
+}
+.card-text {
+  font-size: 1.2rem; 
+  color: whitesmoke;
+  object-fit:contain
+}
+.card p {
+  margin-bottom: 1rem;
+  object-fit:contain
+}
+#newage{
+  text-align:center;
+  color:white;
+  object-fit:contain
+}
